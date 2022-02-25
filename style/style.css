@@ -1,0 +1,22 @@
+body{
+    padding: 30px 100px;
+    font-family: sans-serif;
+}
+
+button{
+    background-color: orange;
+    padding: 10px 100px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+}
+
+#showQuote{
+    border: 1px solid lightgrey;
+    border-left: 10px solid orange;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 2px 5px 10px lightgrey;
+}
